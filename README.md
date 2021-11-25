@@ -1,4 +1,4 @@
-# Apple_mobile_model_identifier.txt
+# Apple mobile model identifier
 List of Apple's mobile device codes types (model identifier) and their matching product names
 
 based on :
