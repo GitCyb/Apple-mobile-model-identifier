@@ -1,126 +1,125 @@
-iPad1,1 : iPad Wi-Fi (Original/1st Gen)
-iPad2,1 : iPad 2 (Wi-Fi Only)
-iPad2,2 : iPad 2 (Wi-Fi/GSM/GPS)
-iPad2,3 : iPad 2 (Wi-Fi/CDMA/GPS)
-iPad2,4 : iPad 2 (Wi-Fi Only, iPad2,4)
-iPad3,1 : iPad 3rd Gen (Wi-Fi Only)
-iPad3,2 : iPad 3rd Gen (Wi-Fi/Cellular Verizon/GPS)
-iPad3,3 : iPad 3rd Gen (Wi-Fi/Cellular AT&T/GPS)
-iPad3,4 : iPad 4th Gen (Wi-Fi Only)
-iPad3,5 : iPad 4th Gen (Wi-Fi/AT&T/GPS)
-iPad3,6 : iPad 4th Gen (Wi-Fi/Verizon & Sprint/GPS)
-iPad6,11 : iPad 9.7" 5th Gen (Wi-Fi Only)
-iPad6,12 : iPad 9.7" 5th Gen (Wi-Fi/Cellular)
-iPad7,5 : iPad 9.7" 6th Gen (Wi-Fi Only)
-iPad7,6 : iPad 9.7" 6th Gen (Wi-Fi/Cellular)
-iPad7,11 : iPad 10.2" 7th Gen (Wi-Fi Only)
-iPad7,12 : iPad 10.2" 7th Gen (Wi-Fi/Cellular, Global)
-iPad11,6 : iPad 10.2" 8th Gen (Wi-Fi Only)
-iPad11,7 : iPad 10.2" 8th Gen (Wi-Fi/Cellular, Global)
-iPad12,1 : iPad 10.2" 9th Gen (Wi-Fi Only)
-iPad12,2 : iPad 10.2" 9th Gen (Wi-Fi/Cellular, Global)
-iPad4,1 : iPad Air Wi-Fi Only
-iPad4,2 : iPad Air Wi-Fi/Cellular
-iPad4,3 : iPad Air Wi-Fi/TD-LTE - China
-iPad5,3 : iPad Air 2 (Wi-Fi Only)
-iPad5,4 : iPad Air 2 (Wi-Fi/Cellular)
-iPad11,3 : iPad Air 3rd Gen (Wi-Fi Only)
-iPad11,4 : iPad Air 3rd Gen (Wi-Fi+Cell Global)
-iPad13,1 : iPad Air 4th Gen (Wi-Fi Only)
-iPad13,2 : iPad Air 4th Gen (Wi-Fi+Cell Global)
-iPad2,5 : iPad mini Wi-Fi Only/1st Gen
-iPad2,6 : iPad mini Wi-Fi/AT&T/GPS - 1st Gen
-iPad2,7 : iPad mini Wi-Fi/VZ & Sprint/GPS - 1st Gen
-iPad4,4 : iPad mini 2 (Retina/2nd Gen, Wi-Fi Only)
-iPad4,5 : iPad mini 2 (Retina/2nd Gen, Wi-Fi/Cellular)
-iPad4,6 : iPad mini 2 (Retina/2nd Gen, China)
-iPad4,7 : iPad mini 3 (Wi-Fi Only)
-iPad4,8 : iPad mini 3 (Wi-Fi/Cellular)
-iPad4,9 : iPad mini 3 (Wi-Fi/Cellular, China)
-iPad5,1 : iPad mini 4 (Wi-Fi Only)
-iPad5,2 : iPad mini 4 (Wi-Fi/Cellular)
-iPad11,1 : iPad mini 5th Gen (Wi-Fi Only)
-iPad11,2 : iPad mini 5th Gen (Wi-Fi+Cell Global)
-iPad14,1 : iPad mini 6th Gen (Wi-Fi Only)
-iPad14,2 : iPad mini 6th Gen (Wi-Fi/Cell Global)
-iPad6,3 : iPad Pro 9.7" (Wi-Fi Only)
-iPad6,4 : iPad Pro 9.7" (Wi-Fi/Cellular)
-iPad6,7 : iPad Pro 12.9" (Wi-Fi Only)
-iPad6,8 : iPad Pro 12.9" (Wi-Fi/Cellular)
-iPad7,1 : iPad Pro 12.9" (Wi-Fi Only - 2nd Gen)
-iPad7,2 : iPad Pro 12.9" (Wi-Fi/Cell - 2nd Gen)
-iPad7,3 : iPad Pro 10.5" (Wi-Fi Only)
-iPad7,4 : iPad Pro 10.5" (Wi-Fi/Cellular)
-iPad8,1 : iPad Pro 11" (Wi-Fi Only)
-iPad8,2 : iPad Pro 11" (Wi-Fi Only)
-iPad8,3 : iPad Pro 11" (Wi-Fi/Cellular - Global)
-iPad8,4 : iPad Pro 11" (Wi-Fi/Cellular - Global)
-iPad8,5 : iPad Pro 12.9" (Wi-Fi Only - 3rd Gen)
-iPad8,6 : iPad Pro 12.9" (Wi-Fi Only - 3rd Gen)
-iPad8,7 : iPad Pro 12.9" (Wi-Fi+Cell Global - 3rd Gen)
-iPad8,8 : iPad Pro 12.9" (Wi-Fi+Cell Global - 3rd Gen)
-iPad8,9 : iPad Pro 11" (Wi-Fi Only - 2nd Gen)
-iPad8,10 : iPad Pro 11" (Wi-Fi/Cell Global - 2nd Gen)
-iPad8,11 : iPad Pro 12.9" (Wi-Fi Only - 4th Gen)
-iPad8,12 : iPad Pro 12.9" (Wi-Fi/Cell Global - 4th Gen)
-iPad13,4 : iPad Pro 11" (Wi-Fi Only - 3rd Gen)
-iPad13,5 : iPad Pro 11" (Wi-Fi/Cell US - 3rd Gen)
-iPad13,6 : iPad Pro 11" (Wi-Fi/Cell Global - 3rd Gen)
-iPad13,7 : iPad Pro 11" (Wi-Fi/Cell China - 3rd Gen)
-iPad13,8 : iPad Pro 12.9" (Wi-Fi Only - 5th Gen)
-iPad13,9 : iPad Pro 12.9" (Wi-Fi/Cell US - 5th Gen)
-iPad13,10 : iPad Pro 12.9" (Wi-Fi/Cell Global - 5th Gen)
-iPad13,11 : iPad Pro 12.9" (Wi-Fi/Cell China - 5th Gen)
-iPhone1,1 : iPhone (Original/1st Gen/EDGE)
-iPhone1,2 : iPhone 3G
-iPhone2,1 : iPhone 3GS
-iPhone1,2 : iPhone 3G (China/No Wi-Fi)
-iPhone2,1 : iPhone 3GS (China/No Wi-Fi)
-iPhone3,1 : iPhone 4 (GSM)
-iPhone3,2 : iPhone 4 (GSM, Revision A)
-iPhone3,3 : iPhone 4 (CDMA/Verizon/Sprint)
-iPhone4,1 : iPhone 4S (4s*)
-iPhone4,1 : iPhone 4S (GSM China/WAPI)
-iPhone5,1 : iPhone 5 (GSM/LTE 1, 3, 5/International)
-iPhone5,2 : iPhone 5 (CDMA China/UIM/WAPI)
-iPhone5,3 : iPhone 5c (GSM/North America/A1532)
-iPhone5,4 : iPhone 5c (UK/Europe/Middle East/A1507)
-iPhone6,1 : iPhone 5s (GSM/North America/A1533)
-iPhone6,2 : iPhone 5s (UK/Europe/Middle East/A1457)
-iPhone7,2 : iPhone 6 (GSM/North America/A1549)
-iPhone7,1 : iPhone 6 Plus (GSM/North America/A1522)
-iPhone8,1 : iPhone 6s (Global/A1688)
-iPhone8,2 : iPhone 6s Plus (Global/A1687)
-iPhone8,4 : iPhone SE (Global/Sprint/A1723)
-iPhone9,1 : iPhone 7 (Verizon/Sprint/China/A1660)
-iPhone9,2 : iPhone 7 Plus (Verizon/Sprint/China/A1661)
-iPhone9,3 : iPhone 7 (AT&T/T-Mobile/Global/A1778)
-iPhone9,4 : iPhone 7 Plus (AT&T/T-Mobile/Global/A1784)
-iPhone10,1 : iPhone 8 (Verizon/Sprint/China/A1863)
-iPhone10,2 : iPhone 8 Plus (Verizon/Sprint/China/A1864)
-iPhone10,3 : iPhone X (Verizon/Sprint/China/A1865)
-iPhone10,4 : iPhone 8 (AT&T/T-Mobile/Global/A1905)
-iPhone10,5 : iPhone 8 Plus (AT&T/T-Mobile/Global/A1897)
-iPhone10,6 : iPhone X (AT&T/T-Mobile/Global/A1901)
-iPhone11,2 : iPhone Xs (Global/A2097)
-iPhone11,6 : iPhone Xs Max (Global/A2101)
-iPhone11,8 : iPhone XR (Global/A2105)
-iPhone12,1 : iPhone 11 (Global/A2221)
-iPhone12,3 : iPhone 11 Pro (Global/A2215)
-iPhone12,5 : iPhone 11 Pro Max (Global/A2218)
-iPhone12,8 : iPhone SE (2 - 4.7" 2020 Global A2296)
-iPhone13,1 : iPhone 12 mini (Global/A2399)
-iPhone13,2 : iPhone 12 (Global/A2403)
-iPhone13,3 : iPhone 12 Pro (Global/A2407)
-iPhone13,4 : iPhone 12 Pro Max (Global/A2411)
-iPhone14,4 : iPhone 13 mini (Global/A2628)
-iPhone14,5 : iPhone 13 (Global/A2633)
-iPhone14,2 : iPhone 13 Pro (Global/A2638)
-iPhone14,3 : iPhone 13 Pro Max (Global/A2643)
-iPod1,1 : iPod touch Original/1st Gen
-iPod2,1 : iPod touch 2nd Gen
-iPod3,1 : iPod touch 3rd Gen/32 & 64 GB
-iPod4,1 : iPod touch 4th Gen/FaceTime
-iPod5,1 : iPod touch 5th Gen
-iPod7,1 : iPod touch 6th Gen, 2015
-iPod9,1 : iPod touch 7th Gen, 2019
+iPhone1,1: iPhone
+iPhone1,2: iPhone 3G
+iPhone2,1: iPhone 3GS
+iPhone3,1: iPhone 4
+iPhone3,2: iPhone 4
+iPhone3,3: iPhone 4
+iPhone4,1: iPhone 4S
+iPhone4,2: iPhone 4S
+iPhone4,3: iPhone 4S
+iPhone5,1: iPhone 5
+iPhone5,2: iPhone 5
+iPhone5,3: iPhone 5C
+iPhone5,4: iPhone 5C
+iPhone6,1: iPhone 5S
+iPhone6,2: iPhone 5S
+iPhone7,2: iPhone 6
+iPhone7,1: iPhone 6 Plus
+iPhone8,1: iPhone 6S
+iPhone8,2: iPhone 6S Plus
+iPhone8,4: iPhone SE
+iPhone9,1: iPhone 7
+iPhone9,3: iPhone 7
+iPhone9,2: iPhone 7 Plus
+iPhone9,4: iPhone 7 Plus
+iPhone10,1: iPhone 8
+iPhone10,4: iPhone 8
+iPhone10,2: iPhone 8 Plus
+iPhone10,5: iPhone 8 Plus
+iPhone10,3: iPhone X
+iPhone10,6: iPhone X
+iPhone11,2: iPhone Xs
+iPhone11,4: iPhone Xs Max
+iPhone11,6: iPhone Xs Max
+iPhone11,8: iPhone XR
+iPhone12,1: iPhone 11
+iPhone12,3: iPhone 11 Pro
+iPhone12,5: iPhone 11 Pro Max
+iPhone12,8: iPhone SE 2
+iPhone13,1: iPhone 12 mini
+iPhone13,2: iPhone 12
+iPhone13,3: iPhone 12 Pro
+iPhone13,4: iPhone 12 Pro Max
+iPhone14,4: iPhone 13 mini
+iPhone14,5: iPhone 13
+iPhone14,2: iPhone 13 Pro
+iPhone14,3: iPhone 13 Pro Max
+iPad1,1: iPad
+iPad2,1: iPad 2
+iPad2,2: iPad 2
+iPad2,3: iPad 2
+iPad2,4: iPad 2
+iPad3,1: iPad 3
+iPad3,2: iPad 3
+iPad3,3: iPad 3
+iPad3,4: iPad 4
+iPad3,5: iPad 4
+iPad3,6: iPad 4
+iPad6,11: iPad 5
+iPad6,12: iPad 5
+iPad7,5: iPad 6
+iPad7,6: iPad 6
+iPad7,11: iPad 7
+iPad7,12: iPad 7
+iPad11,6: iPad 8
+iPad11,7: iPad 8
+iPad12,1: iPad 9
+iPad12,2: iPad 9
+iPad4,1: iPad Air
+iPad4,2: iPad Air
+iPad4,3: iPad Air
+iPad5,3: iPad Air 2
+iPad5,4: iPad Air 2
+iPad11,3: iPad Air 3
+iPad11,4: iPad Air 3
+iPad13,1: iPad Air 4
+iPad13,2: iPad Air 4
+iPad2,5: iPad Mini
+iPad2,6: iPad Mini
+iPad2,7: iPad Mini
+iPad4,4: iPad Mini 2
+iPad4,5: iPad Mini 2
+iPad4,6: iPad Mini 2
+iPad4,7: iPad Mini 3
+iPad4,8: iPad Mini 3
+iPad4,9: iPad Mini 3
+iPad5,1: iPad Mini 4
+iPad5,2: iPad Mini 4
+iPad11,1: iPad Mini 5
+iPad11,2: iPad Mini 5
+iPad14,1: iPad Mini 6
+iPad14,2: iPad Mini 6
+iPad6,3: iPad Pro 9.7-inch
+iPad6,4: iPad Pro 9.7-inch
+iPad7,3: iPad Pro 10.5-inch
+iPad7,4: iPad Pro 10.5-inch
+iPad8,1: iPad Pro 11-inch
+iPad8,2: iPad Pro 11-inch
+iPad8,3: iPad Pro 11-inch
+iPad8,4: iPad Pro 11-inch
+iPad8,9: iPad Pro 11-inch 2
+iPad8,10: iPad Pro 11-inch 2
+iPad13,4: iPad Pro 11-inch 3
+iPad13,5: iPad Pro 11-inch 3
+iPad13,6: iPad Pro 11-inch 3
+iPad13,7: iPad Pro 11-inch 3
+iPad6,7: iPad Pro 12.9-inch
+iPad6,8: iPad Pro 12.9-inch
+iPad7,1: iPad Pro 12.9-inch 2
+iPad7,2: iPad Pro 12.9-inch 2
+iPad8,5: iPad Pro 12.9-inch 3
+iPad8,6: iPad Pro 12.9-inch 3
+iPad8,7: iPad Pro 12.9-inch 3
+iPad8,8: iPad Pro 12.9-inch 3
+iPad8,11: iPad Pro 12.9-inch 4
+iPad8,12: iPad Pro 12.9-inch 4
+iPad13,8: iPad Pro 12.9-inch 5
+iPad13,9: iPad Pro 12.9-inch 5
+iPad13,10: iPad Pro 12.9-inch 5
+iPad13,11: iPad Pro 12.9-inch 5
+iPod1,1: iPod Touch
+iPod2,1: iPod Touch 2
+iPod3,1: iPod Touch 3
+iPod4,1: iPod Touch 4
+iPod5,1: iPod Touch 5
+iPod7,1: iPod Touch 6
